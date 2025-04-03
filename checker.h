@@ -16,7 +16,7 @@ namespace inet
 {
     std::string read_url(std::string url);
     DWORD post_request(std::string url, std::string request, DWORD* code, std::string* response);
-    bool webstatus_check(const std::string& szAddress, DWORD* pdwWebStat);
+    bool webstatus_check(const std::string& sAddress, DWORD* pdwWebStat);
 }
 
 
