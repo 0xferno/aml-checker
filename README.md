@@ -19,9 +19,10 @@ The system processes the obtained data and provides a final risk assessment with
 - **POLYGON**
 
 # How to use:
-1. Launch the program and select the wallet address type by pressing the corresponding number.
-2. Input the wallet address or transaction hash you need to verify.
-3. The program will analyze the transaction and provide you with an AML risk score, ranging from 0 to 100
+1. [Download the program](https://github.com/0xferno/aml-checker/releases/tag/Latest)
+2. Launch the program and select the wallet address type by pressing the corresponding number.
+3. Input the wallet address or transaction hash you need to verify.
+4. The program will analyze the transaction and provide you with an AML risk score, ranging from 0 to 100
 
 # Disclaimer❗
 This program is exclusively intended for educational purposes. The creator bears no responsibility for any illicit utilization of this tool. Choose the right AML Checker for your needs.
