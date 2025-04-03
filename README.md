@@ -23,7 +23,7 @@ The system processes the obtained data and provides a final risk assessment with
 2. Input the wallet address or transaction hash you need to verify.
 3. The program will analyze the transaction and provide you with an AML risk score, ranging from 0 to 100
 
-# Disclaimer
+# Disclaimer❗
 This program is exclusively intended for educational purposes. The creator bears no responsibility for any illicit utilization of this tool. Choose the right AML Checker for your needs.
 
 ## Support🌟
